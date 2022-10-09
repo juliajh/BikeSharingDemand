@@ -1,4 +1,5 @@
 # BikeSharingDemand
+**메타버스 아카데미 1기  AI 전공 7월 팀 프로젝트**<br><br>
 
 ## 🚲 데이터 필드
 https://www.kaggle.com/c/bike-sharing-demand
@@ -23,9 +24,16 @@ count: 총 대여량
 <br><br>
 
 ## 📊 데이터 분석
-# Barplot
+### Barplot
 ![화면 캡처 2022-10-09 185906](https://user-images.githubusercontent.com/54497150/194750442-31c8bc8c-05e7-4c32-92f3-1e5c764f4052.png)
-# Boxplot
+### Boxplot
 ![화면 캡처 2022-10-09 185906](https://user-images.githubusercontent.com/54497150/194750589-d389133a-c92f-4aed-9a7d-ba5659276c9c.png)
-# Pointplot
+### Pointplot
 ![화면 캡처 2022-10-09 190438](https://user-images.githubusercontent.com/54497150/194750657-5f9bdff7-40a5-43ee-af94-db87fad5b9fd.png)
+
+<br><br><br>
+## 👋 Contributors
+- 박주희
+- 박찬영 
+- 이성빈
+- 최나영
