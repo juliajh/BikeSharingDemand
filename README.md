@@ -20,18 +20,19 @@ windspeed: 바람의 세기<br>
 casual: 비회원의 대여량<br>
 registered: 회원의 대여량<br>
 count: 총 대여량
-<br>
 <br><br>
 
 ## 📊 데이터 분석
-### Barplot
 ![화면 캡처 2022-10-09 185906](https://user-images.githubusercontent.com/54497150/194750442-31c8bc8c-05e7-4c32-92f3-1e5c764f4052.png)
-### Boxplot
-![화면 캡처 2022-10-09 185906](https://user-images.githubusercontent.com/54497150/194750589-d389133a-c92f-4aed-9a7d-ba5659276c9c.png)
-### Pointplot
-![화면 캡처 2022-10-09 190438](https://user-images.githubusercontent.com/54497150/194750657-5f9bdff7-40a5-43ee-af94-db87fad5b9fd.png)
+<br><br>
 
-<br><br><br>
+## 💡 모델 학습
+![화면 캡처 2022-10-09 233336](https://user-images.githubusercontent.com/54497150/194763297-4fe9e7cd-7dfc-4bf4-b0ee-fe9ed8f032d4.png)
+![화면 캡처 2022-10-09 233941](https://user-images.githubusercontent.com/54497150/194763301-13bed66b-d385-4398-8f42-377e7061a7a4.png)<br><br>
+Best Model => LGBMRegressor<br>
+Grid Search를 이용하여 최적 모델 찾기
+<br><br>
+
 ## 👋 Contributors
 - 박주희 @juliajh
 - 박찬영 
