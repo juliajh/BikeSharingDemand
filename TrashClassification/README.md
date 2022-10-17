@@ -1,1 +1,1 @@
-# 쓰레기 분류
+# Trash Classification
